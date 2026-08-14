@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saifullah</h1>
-<h3 align="center">3rd Year Student in Computer Science Heriot Watt University Dubai with a passion in AI, automation and ML. Collab with me and we can make outstanding projects!!</h3>
+<h3 align="center">4th Year Student in Computer Science specializing in Artificial Intelligence at Heriot Watt University Dubai with a passion in AI, automation and ML. Collab with me and we can make outstanding projects!!</h3>
 
 - 🔭 I’m currently working in **ATLAS RACING**
 
